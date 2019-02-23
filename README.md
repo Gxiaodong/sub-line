@@ -10,7 +10,7 @@ Let F_1 be the left focus of ellipse C:x^2/a^2+y^2/b^2=1(a>b>0), Point M lies on
 (2) If the left vertex of ellipse C is point A, and the right vertex of △ABD is point A, AB intersects ellipse C at B, and AD intersects ellipse C at D. Find the maximum value of area of △ABD. 
 
 
-**Human-like solving processes:** 
+**Human-like solving processes:**  
 Question (1): 
 
 (1)∵ line F_1M⊥line X:y=0
