@@ -4,6 +4,7 @@ Example 1: 2018121490624 A math problem for analytic geometry
 
 
 Let F_1 be the left focus of ellipse C:x^2/a^2+y^2/b^2=1(a>b>0), Point M lies on C, and MF_1 is perpendicular to the X-axis, if |MF_1|=3/2, the eccentricity of ellipse C is 1/2.
+
 (1) Find the standard equation of ellipse C. 
 
 (2) If the left vertex of ellipse C is point A, and the right vertex of △ABD is point A, AB intersects ellipse C at B, and AD intersects ellipse C at D. Find the maximum value of area of △ABD. 
@@ -12,11 +13,17 @@ Let F_1 be the left focus of ellipse C:x^2/a^2+y^2/b^2=1(a>b>0), Point M lies on
 Human-like solving processes:
 
 Question (1): 
+
 (1)∵ line F_1M⊥line X:y=0
+
 (2)∴ by(1): analytic of function F_1M is x=x_F_1M
+
 (3)∴ by(1): analytic of function X is y=0
+
 (4)∴ by(1,2,3): x_F_1M=0
+
 (5)∵ the focus of C is F_1.
+
 (6)∵ analytic of ellipse C is ((x^2)/(a^2))+((y^2)/(b^2))=1
 (7)∴ by(5): point F_1
 (8)∴ by(5,6,7): point F_1(-(a^2-b^2)^(1/2),0)
