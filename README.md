@@ -96,9 +96,12 @@ Question (1):
 (41)∴ by(6,15,17): s_M≤a
 
 (42)∴ by(18,19,20,21,27,28,31,32,33,34,35,37,40,41): s_M=-1,a=2,b=3^(1/2),t_M=3/2 or s_M=-1,a=2,b=3^(1/2),t_M=-3/2
+
 Discussions in different conditions:
+
 Condition 1
 when [${s}_{M}=(-1)$, $a=2$, $b=\sqrt{3}$, ${t}_{M}=\frac{3}{2}$]:
+
 (1)∵ b=3^(1/2)
 
 (2)∵ a=2
