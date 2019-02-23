@@ -112,7 +112,10 @@ when [${s}_{M}=(-1)$, $a=2$, $b=\sqrt{3}$, ${t}_{M}=\frac{3}{2}$]:
 
 (5)∴ by(1,4): analytic of ellipse C is 1/4*x^2+1/3*y^2=1
 when [${s}_{M}=(-1)$, $a=2$, $b=\sqrt{3}$, ${t}_{M}=(-\frac{3}{2})$]:
+
 Condition 2
+
 The same as Condition 1
+
 To sum up, [the standard equation of ellipse C is x^2/4+y^2/3=1]
 
