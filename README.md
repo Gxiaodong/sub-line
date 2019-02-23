@@ -1,6 +1,6 @@
 # sub-line
 
-Example 1: 2018121490624 A math problem for analytic geometry  
+**Example 1: 2018121490624 A math problem for analytic geometry**  
 
 
 Let F_1 be the left focus of ellipse C:x^2/a^2+y^2/b^2=1(a>b>0), Point M lies on C, and MF_1 is perpendicular to the X-axis, if |MF_1|=3/2, the eccentricity of ellipse C is 1/2.
@@ -11,7 +11,6 @@ Let F_1 be the left focus of ellipse C:x^2/a^2+y^2/b^2=1(a>b>0), Point M lies on
 
 
 **Human-like solving processes:** 
-
 Question (1): 
 
 (1)∵ line F_1M⊥line X:y=0
@@ -101,9 +100,13 @@ Discussions in different conditions:
 Condition 1
 when [${s}_{M}=(-1)$, $a=2$, $b=\sqrt{3}$, ${t}_{M}=\frac{3}{2}$]:
 (1)∵ b=3^(1/2)
+
 (2)∵ a=2
+
 (3)∵analytic of ellipse C is ((x^2)/(a^2))+((y^2)/(b^2))=1
+
 (4)∴ by(2,3): analytic of ellipse C is 1/4*(b^2*x^2+4*y^2)/b^2=1
+
 (5)∴ by(1,4): analytic of ellipse C is 1/4*x^2+1/3*y^2=1
 when [${s}_{M}=(-1)$, $a=2$, $b=\sqrt{3}$, ${t}_{M}=(-\frac{3}{2})$]:
 Condition 2
